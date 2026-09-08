@@ -1,2 +1,1 @@
-hello
-feature line
+hello from B
